@@ -1,23 +1,23 @@
 const A='images/';
 const services=[
- {title:'Bridal Makeup',img:'highres/gallery-bridal-1.jpg',desc:'Complete bridal makeup for your special day.'},
+ {title:'Bridal Makeup',img:'highres/bridal-pexels-1.jpg',desc:'Complete bridal makeup for your special day.'},
  {title:'Hair Treatment',img:'highres/hero.jpg',desc:'Hair cutting, coloring, smoothing and more.'},
  {title:'Skin Care',img:'highres/skin.jpg',desc:'Facials, cleanups and skin treatments.'},
  {title:'Manicure & Pedicure',img:'highres/nails.jpg',desc:'Nail care for beautiful hands and feet.'},
  {title:'Body Massage',img:'highres/massage.jpg',desc:'Relaxing body massage to refresh your body.'},
- {title:'Mehndi Design',img:'highres/gallery-bridal-4.jpg',desc:'Beautiful celebration-ready artistry for every occasion.'}
+ {title:'Mehndi Design',img:'highres/mehndi.jpg',desc:'Beautiful mehndi for every occasion.'}
 ];
 const gallery=[
- {img:'highres/gallery-bridal-1.jpg',category:'bridal',alt:'Bridal beauty look'},
- {img:'highres/gallery-bridal-2.jpg',category:'bridal',alt:'Elegant bridal style'},
- {img:'highres/gallery-bridal-3.jpg',category:'bridal',alt:'Bridal fashion detail'},
- {img:'highres/gallery-bridal-4.jpg',category:'bridal',alt:'Celebration beauty look'},
+ {img:'highres/bridal-pexels-1.jpg',category:'bridal',alt:'South Asian bridal makeup'},
+ {img:'highres/gallery-bridal-1.jpg',category:'bridal',alt:'Bridal beauty portrait'},
+ {img:'highres/mehndi.jpg',category:'bridal',alt:'Bridal mehndi detail'},
+ {img:'highres/gallery-bridal-4.jpg',category:'bridal',alt:'Bridal fashion portrait'},
  {img:'highres/gallery-makeup-1.jpg',category:'makeup',alt:'Professional makeup look'},
- {img:'highres/gallery-makeup-2.jpg',category:'makeup',alt:'Makeup and beauty portrait'},
+ {img:'highres/gallery-makeup-2.jpg',category:'makeup',alt:'Beauty portrait'},
  {img:'highres/hero.jpg',category:'hair',alt:'Healthy styled hair'},
  {img:'highres/gallery-hair-1.jpg',category:'hair',alt:'Hair styling inspiration'},
  {img:'highres/gallery-hair-2.jpg',category:'hair',alt:'Modern hair beauty portrait'},
- {img:'highres/mehndi.jpg',category:'mehndi',alt:'Hand beauty detail'},
+ {img:'highres/mehndi.jpg',category:'mehndi',alt:'Mehndi art'},
  {img:'highres/nails.jpg',category:'nails',alt:'Glossy nail art'},
  {img:'highres/makeup.jpg',category:'nails',alt:'Nail design close up'}
 ];
